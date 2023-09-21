@@ -1,2 +1,11 @@
-
+*{
+	margin:0px;
+	padding:0px;
+}
 /* Your CSS Code here. */
+.form>fieldset{
+	padding:10px;
+}
+.form{
+	background-color:aqua;
+}
